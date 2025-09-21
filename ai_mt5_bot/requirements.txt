@@ -1,0 +1,10 @@
+MetaTrader5
+pandas
+numpy
+ta
+pydantic
+python-dotenv
+openai
+tenacity
+tabulate
+pytest
